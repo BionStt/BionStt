@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="centre">
 
 [![GitHub followers](https://img.shields.io/github/followers/BionStt?label=Follow&style=social)](https://github.com/BionStt/?tab=follow)
-![visitors](https://hit-badger.glitch.me/badge?page_id=xietsunzao.xietsunzao)
+![visitors](https://hit-badger.glitch.me/badge?page_id=BionStt.BionStt)
  </div>
 
 **Languages, Frameworks, and Tools:**  
