@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-codeigniter.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BionStt)](https://github.com/BionStt/github-readme-stats)
 -->
 <div align="centre">
 
@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=BionStt&title_color=555&text_color=777&show_icons=true&icon_color=333)](https://github.com/BionStt)
+
+
