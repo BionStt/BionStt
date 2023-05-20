@@ -187,6 +187,14 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 
 [![Repo Updated Badge](https://badges.strrl.dev/updated/BionStt/BionStt)](https://badges.strrl.dev)
 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/BionStt/BionStt/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <h2>📈 My GitHub profile stats</h2>
 <a href="https://github.com/BionStt?tab=repositories">
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=BionStt&theme=dracula&show_icons=true&count_private=true&show_icons=true&hide=contribs" />
