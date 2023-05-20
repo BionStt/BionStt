@@ -90,6 +90,8 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
   
 ---  
 
+<img align="right" alt="Coding" width="400" src="https://github.com/BionStt/BionStt/blob/output/coding-person.gif">
+
 ## Some of the preferred tech stack, tools and platforms I use
 ### 🛠️ &nbsp;Tech Stack
 
