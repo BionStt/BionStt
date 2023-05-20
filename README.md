@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 [![Commits Badge](https://badges.strrl.dev/commits/yearly/BionStt)](https://badges.strrl.dev)
 [![Commits Badge](https://badges.strrl.dev/commits/all/BionStt)](https://badges.strrl.dev)
 
-[![Visits Badge](https://badges.strrl.dev/visits/BionStt/serverless-github-badges)](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/BionStt/BionStt)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/BionStt)](https://badges.strrl.dev)
 
 <h2>📈 My GitHub profile stats</h2>
