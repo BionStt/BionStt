@@ -38,24 +38,23 @@ Here are some ideas to get you started:
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Sutanto Gasali
+located_in: Jakarta, Indonesia
+current_job: Full Stack .Net Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+     "Bachelor of Science in Information Technology",
   ]
-company: Soulber
+company: PT ADI Consulting
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "System Analysis And Design",
+    "Enterprise Architecture",
+    "Business Process Model and Notation",
+    "UI/UX",   
     "DevOps",
   ]
 technical_background:
