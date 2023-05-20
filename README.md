@@ -112,6 +112,9 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.strrl.dev/visits/BionStt/BionStt)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/BionStt)](https://badges.strrl.dev)
 
+
+[![Repo Updated Badge](https://badges.strrl.dev/updated/BionStt/BionStt)](https://badges.strrl.dev)
+
 <h2>📈 My GitHub profile stats</h2>
 <a href="https://github.com/BionStt?tab=repositories">
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=BionStt&theme=dracula&show_icons=true&count_private=true&show_icons=true&hide=contribs" />
