@@ -59,15 +59,33 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "C# Asp.Net Core",
+    "VB.NET",
+    "MVC",
+    "Razor",
+    "JQUERY",
+    "T-SQL",
+    "Dapper",
+    "Entity Framework Core",
+    "ADO.Net",
+    "UML",
+    "LINQ",
+    "IIS",
+    "Dapper",
+    "Microservice",
+    "Monolith Modular",
+    "Restful API",
+    "Dapper",
+    "MS SQL SERVER",
+    "Azure SQL Server",
+    "BPMN",
+    "GIThub",
+    "Docker",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, Kubernetes and React "]
+2023 Goals: ["Create 5+ Projects POC and learn at least 5 new Technologies."]
+hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 ```
   
 ---  
