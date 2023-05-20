@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align="centre">
 
 [![GitHub followers](https://img.shields.io/github/followers/BionStt?label=Follow&style=social)](https://github.com/BionStt/?tab=follow)
-
+![](https://komarev.com/ghpvc/?username=BionStt&color=green)
  </div>
 
 ### 🤝🏻 &nbsp;Connect with Me
