@@ -24,8 +24,15 @@ Here are some ideas to get you started:
 <div align="centre">
 
 [![GitHub followers](https://img.shields.io/github/followers/BionStt?label=Follow&style=social)](https://github.com/BionStt/?tab=follow)
-![visitors](https://hit-badger.glitch.me/badge?page_id=BionStt.BionStt)
+
  </div>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sutanto-gasali-299462190"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</p>
 
 ## Some of the preferred tech stack, tools and platforms I use
 ### 🛠️ &nbsp;Tech Stack
