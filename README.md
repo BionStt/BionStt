@@ -27,21 +27,7 @@ Here are some ideas to get you started:
 ![visitors](https://hit-badger.glitch.me/badge?page_id=BionStt.BionStt)
  </div>
 
-**Languages, Frameworks, and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://code.visualstudio.com/assets/favicon.ico"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1200px-Visual_Studio_2017_Logo.svg.png"></code>
-<code><img height="20" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
 ## Some of the preferred tech stack, tools and platforms I use
-
-
 ### 🛠️ &nbsp;Tech Stack
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -118,6 +104,10 @@ Here are some ideas to get you started:
 
 ###  💼 &nbsp; Work/Jobs
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
+### GitHub Commits Badge
+[![Commits Badge](https://badges.strrl.dev/commits/${all}/${BionStt})](https://badges.strrl.dev)
+
 
 <h2>📈 My GitHub profile stats</h2>
 <a href="https://github.com/BionStt?tab=repositories">
