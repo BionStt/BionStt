@@ -41,3 +41,7 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=BionStt&title_color=555&text_color=777&show_icons=true&icon_color=333)](https://github.com/BionStt)
 
 
+<h2>📈 My GitHub profile stats</h2>
+<a href="https://github.com/BionStt?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=BionStt&theme=dracula&show_icons=true&count_private=true&show_icons=true&hide=contribs" />
+</a>
