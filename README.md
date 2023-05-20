@@ -44,7 +44,7 @@ current_job: Full Stack .Net Developer
 education:
   [
     "Self-Taught Developer and Designer",
-     "Bachelor of Science in Information Technology",
+    "Bachelor of Science in Information Technology",
   ]
 company: PT ADI Consulting
 
@@ -191,10 +191,6 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 
 ![Snake animation](https://github.com/BionStt/BionStt/blob/output/github-contribution-grid-snake.svg)
   
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
 <h2>📈 My GitHub profile stats</h2>
 <a href="https://github.com/BionStt?tab=repositories">
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=BionStt&theme=dracula&show_icons=true&count_private=true&show_icons=true&hide=contribs" />
