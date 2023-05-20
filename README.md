@@ -112,6 +112,15 @@ Here are some ideas to get you started:
 [![Visits Badge](https://badges.strrl.dev/visits/BionStt/BionStt)](https://badges.strrl.dev)
 [![Years Badge](https://badges.strrl.dev/years/BionStt)](https://badges.strrl.dev)
 
+[![Contributions Badge](https://badges.strrl.dev/contributions/daily/BionStt)](https://badges.strrl.dev)
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/weekly/BionStt)](https://badges.strrl.dev)
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/monthly/BionStt)](https://badges.strrl.dev)
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/yearly/BionStt)](https://badges.strrl.dev)
+
+[![Contributions Badge](https://badges.strrl.dev/contributions/all/BionStt)](https://badges.strrl.dev)
 
 [![Repo Updated Badge](https://badges.strrl.dev/updated/BionStt/BionStt)](https://badges.strrl.dev)
 
