@@ -106,7 +106,8 @@ Here are some ideas to get you started:
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
 ### GitHub Commits Badge
-[![Commits Badge](https://badges.strrl.dev/commits/${all}/${BionStt})](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/yearly/BionStt)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/all/BionStt)](https://badges.strrl.dev)
 
 
 <h2>📈 My GitHub profile stats</h2>
