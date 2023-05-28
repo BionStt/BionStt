@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 </p>
 
-
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
