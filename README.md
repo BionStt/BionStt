@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/BionStt?label=Follow&style=social)](https://github.com/BionStt/?tab=follow)
 ![](https://komarev.com/ghpvc/?username=BionStt&color=green)
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BionStt.BionStt">
+
  </div>
 
 ### 🤝🏻 &nbsp;Connect with Me
