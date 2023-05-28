@@ -208,3 +208,5 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 <a href="https://github.com/BionStt?tab=repositories">
   <img height="180em" src="https://github-readme-stats.zohan.tech/api?username=BionStt&theme=dracula&show_icons=true&count_private=true&show_icons=true&hide=contribs" />
 </a>
+
+[issues page]: https://github.com/BionStt/BionStt/issues "BionStt/issues"
