@@ -190,8 +190,17 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 [![Repo Updated Badge](https://badges.strrl.dev/updated/BionStt/BionStt)](https://badges.strrl.dev)
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+<br>
+<div align="center">
+  <a href="https://www.victorsimonin.fr/">
+  <img  src="https://github.com/BionStt/BionStt/blob/output/snake_grid.svg"
+       alt="snake" /></a>
+</div>
 
+<br>
 ![Snake animation](https://github.com/BionStt/BionStt/blob/output/github-contribution-grid-snake.svg)
+ 
+<br>
   
 <h2>📈 My GitHub profile stats</h2>
 <a href="https://github.com/BionStt?tab=repositories">
