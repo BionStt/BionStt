@@ -198,8 +198,9 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 </div>
 
 <br>
+<!--
 ![Snake animation](https://github.com/BionStt/BionStt/blob/output/github-contribution-grid-snake.svg)
- 
+ -->
 <br>
   
 <h2>📈 My GitHub profile stats</h2>
