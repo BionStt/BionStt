@@ -170,7 +170,9 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ###  💼 &nbsp; Work/Jobs
+<!--
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+-->
 
 ### GitHub Commits Badge
 [![Commits Badge](https://badges.strrl.dev/commits/yearly/BionStt)](https://badges.strrl.dev)
