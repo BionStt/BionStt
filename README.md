@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Projects
 - POC CRM for Small medium enterprise|Modular Monolith + Inbox Outbox pattern + CQRS | Net Core + Jquery | Personal Project | [Public GitHub Repo](https://github.com/BionStt/SMMCoreDDD2019Mei)
 - POC Accounting Razor | SQL nested set model | Net Core | Personal project |  [Public GitHub Repo](https://github.com/BionStt/AccountingRazor2021)
-- POC Laesing Razor | | | Net Core | Personal Project |  [Public GitHub Repo](https://github.com/BionStt/LeasingRazor)
+- POC Leasing Razor  | Net Core | Personal Project |  [Public GitHub Repo](https://github.com/BionStt/LeasingRazor)
 - 
 <!--
 - e-playout an esports startup | .NET 3.1 (Upgraded to .NET 5) + React | Project Owner | Private Repo | For detailed [information](https://esportimes.com/tr/turk-yapimi-olan-yeni-espor-platformu-e-playout/)
