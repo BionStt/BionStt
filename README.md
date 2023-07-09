@@ -41,6 +41,25 @@ Here are some ideas to get you started:
 
 ### :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
+### Projects
+- POC CRM for Small medium enterprise|Modular Monolith + Inbox Outbox pattern + CQRS | Net Core + Jquery | Personal Project | [Public GitHub Repo](https://github.com/BionStt/SMMCoreDDD2019Mei)
+- POC Accounting Razor | SQL nested set model | Net Core | Personal project |  [Public GitHub Repo] (https://github.com/BionStt/AccountingRazor2021)
+- POC Laesing Razor | | | Net Core | Personal Project |  [Public GitHub Repo]  (https://github.com/BionStt/LeasingRazor)
+- 
+<!--
+- e-playout an esports startup | .NET 3.1 (Upgraded to .NET 5) + React | Project Owner | Private Repo | For detailed [information](https://esportimes.com/tr/turk-yapimi-olan-yeni-espor-platformu-e-playout/)
+- Platon an academic collaboration platform | Django + React + Kotlin | University-based Project | [Public GitHub Repo](https://github.com/bounswe/bounswe2020group7)
+- Tournament Management App | .NET 3.1 (Upgraded to .NET 6) + JavaScript | Company-based Project | [Public GitHub Repo](https://github.com/Hryurt/TournamentApp)
+- Investigating Stereotypes in Movies using Deep Learning | Python | Graduation Project | For detailed [information](https://www.cmpe.boun.edu.tr/content/investigating-bias-and-discrimination-movies-using-deep-learning)
+- Reactivities | .NET 5 and React | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/Reactivities)
+- Blazor Admin Panel | .NET 5 (Upgraded to .NET 6) | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/BlazorAdminPanel)
+- DatingApp | .NET Core and Angular | Personal Project | [Public GitHub Repo](https://github.com/Hryurt/DatingApp)
+- Sociality-Project | Python | Interview Project | [Public GitHub Repo](https://github.com/Hryurt/sociality-project)
+- CmpeCoin Blockchain Currency App | Python + RabbitMQ | University-based Project | Private Repo
+- Pen Test App | .NET 5 Blazor Server App | Company-based Project | Private Repo
+
+
+-->
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
