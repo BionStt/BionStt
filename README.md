@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp; Contact with me on:
 <p align="center">
-[<img align="center" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />][whatsapp]
+[<img align="center" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />]
 
 </p>
 
@@ -241,4 +241,6 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 </a>
 
 [issues page]: https://github.com/BionStt/BionStt/issues "BionStt/issues"
+
+
 [whatsapp]: https://web.whatsapp.com/send?phone=628111806368 (WhatsApp)
