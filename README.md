@@ -39,10 +39,9 @@ Here are some ideas to get you started:
 </p>
 
 ### 🤝🏻 &nbsp; Contact with me on:
-<p align="center">
-[<img align="center" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />]
 
-</p>
+[<img align="center" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />][whatsapp]
+
 
 ### :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
