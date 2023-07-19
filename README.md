@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp; Contact with me on:
 <p align="center">
-[<img align="left" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />][whatsapp]
+[<img align="center" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />][whatsapp]
+
 </p>
 
 ### :mailbox: &nbsp;Ask me anything on my **[issues page]**
