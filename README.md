@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sutanto-gasali-299462190"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### Contact with me on:
+### 🤝🏻 &nbsp; Contact with me on:
+<p align="center">
 [<img align="left" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />][whatsapp]
-
+</p>
 
 ### :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
