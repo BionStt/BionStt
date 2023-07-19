@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sutanto-gasali-299462190"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 </p>
+
+### Contact with me on:
+[<img align="left" alt="sutanto | WhatsApp" src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=flat&logo=whatsapp&logoColor=white" />][whatsapp]
+
 
 ### :mailbox: &nbsp;Ask me anything on my **[issues page]**
 
@@ -236,3 +239,4 @@ hobbies: ["Reading", "Cinema", "GYM", "Jogging", "Gaming"]
 </a>
 
 [issues page]: https://github.com/BionStt/BionStt/issues "BionStt/issues"
+[whatsapp]: https://web.whatsapp.com/send?phone=628111806368 (WhatsApp)
